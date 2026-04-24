@@ -1,0 +1,10 @@
+{
+  "spearman_session_acc_mean_rho": 0.8324,
+  "spearman_session_acc_mean_p": 0.0,
+  "spearman_retention_delta_rho": 0.0393,
+  "spearman_retention_delta_p": 0.0,
+  "cluster1_eff_ret_rho": 0.2,
+  "cluster1_eff_ret_p": 0.579584,
+  "cluster2_eff_ret_rho": 0.039,
+  "cluster2_eff_ret_p": 0.0
+}

@@ -1,0 +1,5 @@
+cluster_A,cluster_B,U_stat,p_adj,r_effect,mean_A,mean_B,outcome
+0,1,25853.0,0.001186,-0.3843,0.5658,0.4423,session_acc_mean
+0,2,29727266.0,0.021611,0.0438,0.5658,0.5711,session_acc_mean
+1,2,405512.0,0.000263,0.4207,0.4423,0.5711,session_acc_mean
+1,2,121786.0,0.228728,0.2198,-0.0464,0.0155,retention_delta

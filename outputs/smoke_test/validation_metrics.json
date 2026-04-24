@@ -1,0 +1,9 @@
+{
+  "n_clusters": 4,
+  "noise_fraction": 0.0,
+  "n_valid": 800,
+  "silhouette": 0.2955393932793772,
+  "davies_bouldin": 1.2905165623890331,
+  "calinski_harabasz": 1696.5305624166804,
+  "ari_vs_ground_truth": 1.0
+}

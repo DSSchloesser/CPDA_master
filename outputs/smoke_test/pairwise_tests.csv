@@ -1,0 +1,13 @@
+cluster_A,cluster_B,U_stat,p_adj,r_effect,mean_A,mean_B,outcome
+0,1,0.0,0.0,1.0,0.5801,0.7824,session_acc_mean
+0,2,1831.0,0.0,0.8755,0.5801,0.6289,session_acc_mean
+0,3,40190.0,0.0,-0.9945,0.5801,0.4496,session_acc_mean
+1,2,37576.0,0.0,-1.0,0.7824,0.6289,session_acc_mean
+1,3,51484.0,0.0,-1.0,0.7824,0.4496,session_acc_mean
+2,3,32492.0,0.0,-0.9999,0.6289,0.4496,session_acc_mean
+0,1,23888.0,1.0,-0.0251,0.0002,0.001,retention_delta
+0,2,14622.0,1.0,-0.0207,0.0002,0.0034,retention_delta
+0,3,15481.0,1.0,-0.0391,0.0002,-0.0026,retention_delta
+1,2,18373.0,1.0,-0.004,0.001,0.0034,retention_delta
+1,3,19471.0,1.0,-0.0231,0.001,-0.0026,retention_delta
+2,3,12041.0,1.0,-0.0291,0.0034,-0.0026,retention_delta

@@ -1,0 +1,5 @@
+outcome,H_stat,p_value,eta2,n
+session_acc_mean,22.539,1.3e-05,0.0004,49592
+retention_delta,1.449,0.228722,0.0,31229
+proficiency_trend,109.599,0.0,0.0022,49592
+efficiency_index,20.477,3.6e-05,0.0004,49592
