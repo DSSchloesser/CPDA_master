@@ -11,14 +11,14 @@
 ## Report Metadata
 
 
-| Field                | Value                                                              |
-| -------------------- | ------------------------------------------------------------------ |
-| **Analyst**          | `[ Name ]`                                                         |
-| **Institution**      | Pearson TalentLens                                                 |
-| **Dataset**          | EdNet-KT4 (Riiid, 2020) — 297,915 users | 131,441,538 interactions |
-| **Pipeline Version** | ednet_cpda v1.0                                                    |
-| **Run Date**         | `[ YYYY-MM-DD ]`                                                   |
-| **Data Directory**   | `[ data/KT4/ ]`                                                    |
+| Field                | Value                                   |
+| -------------------- | --------------------------------------- |
+| **Analyst**          | `Daniel Schloesser`                     |
+| **Institution**      | Pearson                                 |
+| **Dataset**          | EdNet-KT4 (Riiid, 2020) — 297,915 users |
+| **Pipeline Version** | ednet_cpda v1.0                         |
+| **Run Date**         | `[ 2026-04-24 ]`                        |
+| **Data Directory**   | `[ data/KT4/ ]`                         |
 
 
 ---
@@ -70,7 +70,7 @@ This report documents the outputs of the CPDA Behavioral Latent Variable Analysi
 | **Dataset**                                | EdNet-KT4 (Riiid, 2020)                                                            |
 | **Total interactions loaded**              | 19,453,330 *(sum of `n_interactions` over retained users in `feature_matrix.csv`)* |
 | **Total users loaded**                     | 49,645 *(retained users in `feature_matrix.csv`)*                                  |
-| **Data directory**                         | `[ Insert path ]`                                                                  |
+| **Data directory**                         | `[ Local path ]`                                                                   |
 | **Schema detected**                        | `lt_header` (action-trace format)                                                  |
 | **questions.csv merged**                   | Yes — correctness resolved via `user_answer == correct_answer`                     |
 | **Min. interactions threshold**            | 40                                                                                 |
@@ -79,7 +79,7 @@ This report documents the outputs of the CPDA Behavioral Latent Variable Analysi
 | **Noise / unassigned (HDBSCAN)**           | 53 (0.1068%)                                                                       |
 | **Pipeline version**                       | ednet_cpda v1.0                                                                    |
 | **Run date / time**                        | `[ 2026-04-24 ]`                                                                   |
-| **Python version**                         | `[ e.g. 3.12.x ]`                                                                  |
+| **Python version**                         | `[ 3.12.0 ]`                                                                       |
 
 
 ### 2.2 CLI Command Used
